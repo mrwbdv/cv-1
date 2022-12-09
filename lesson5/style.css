@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+}
+
+.warning, .error, .success {
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: #fff;
+}
+
+html {
+  font-size: 50px;
+}
+
+.text {
+  font-size: 25px;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  width: 40%;
+}
+
+.success {
+  background-color: green;
+  font-size: 20px;
+}
+
+.error {
+  background-color: red;
+  font-size: 0.5rem;
+}
+
+.warning {
+  background-color: orange;
+  font-size: 0.5em;
+}/*# sourceMappingURL=style.css.map */
